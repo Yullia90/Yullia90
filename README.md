@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi, I'm Yuliia Tsarenko 👋
+Full Stack Web Developer with a passion for creating modern and responsive web applications!
 <!--
 **Yullia90/Yullia90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
